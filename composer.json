@@ -1,0 +1,19 @@
+{
+    "name": "victorwesterlund/packagist-test",
+    "description": "Testing packagist stuff",
+    "type": "library",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Victor Westerlund",
+            "email": "victor.vesterlund@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Reflect\\": "src/"
+        }
+    },
+    "require": {}
+}
