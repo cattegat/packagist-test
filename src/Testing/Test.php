@@ -1,6 +1,6 @@
 <?php
 
-    namespace VictorWesterlund;
+    namespace Testing;
 
     class Test {
         public function __construct() {
